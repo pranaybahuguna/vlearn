@@ -1,0 +1,59 @@
+body {
+	background: #f9f9f9;
+
+
+	&.has-sidebar {
+		@sidebar_width: 30%;
+
+		#primary {
+			padding-right: 20px;
+			float: left;
+			.box-sizing( border-box );
+			width: 100% - @sidebar_width;
+		}
+
+		#secondary {
+			padding-left: 20px;
+			float: right;
+			.box-sizing( border-box );
+			width: @sidebar_width;
+		}
+	}
+
+	&.page-template-home-panels-php,
+	&.siteorigin-panels-home {
+		#primary {
+			padding-right: 0;
+			float: none;
+			width: auto;
+		}
+	}
+
+	@media (max-width: 800px) {
+		&.has-sidebar {
+			#primary {
+				float: none;
+				width: auto;
+			}
+
+			#secondary {
+				float: none;
+				width: auto;
+			}
+		}
+	}
+}
+
+a {
+	color: #1fa7da;
+}
+
+a:visited {
+	color: #1fa7da;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: #1fa7da;
+}

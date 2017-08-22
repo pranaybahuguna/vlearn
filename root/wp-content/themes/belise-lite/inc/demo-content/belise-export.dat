@@ -1,0 +1,22 @@
+a:3:{s:8:"template";s:6:"belise";s:4:"mods";a:17:{i:0;b:0;s:18:"custom_css_post_id";i:254;s:18:"nav_menu_locations";a:4:{s:7:"primary";i:6;s:12:"social-icons";i:12;s:10:"categories";i:23;s:4:"shop";i:39;}s:23:"belise_front_page_title";s:47:"<p>Less deciding means</p><p>More savoring.</p>";s:29:"belise_front_page_button_text";s:18:"Reserve Your Table";s:32:"belise_front_page_schedule_title";s:18:"Hours of operation";s:34:"belise_front_page_schedule_content";s:243:"<ul>
+<li>
+<strong>Mon &amp; Tue</strong>
+<p>10am - 11pm</p>
+</li>
+
+<li>
+<strong>Wed &amp; Thur</strong>
+<p>10am - 11pm</p>
+</li>
+
+<li>
+<strong>Fri &amp; Sat</strong>
+<p>9am - 12pm</p>
+</li>
+
+<li>
+<strong>Sun</strong>
+<p>closed</p>
+</li>
+
+</ul>";s:20:"belise_contact_phone";s:15:"+1 234 567 8990";s:20:"belise_contact_email";s:20:"belise@themeisle.com";s:29:"belise_front_page_button_link";s:42:"https://demo.themeisle.com/belise/contact/";s:23:"belise_front_page_image";s:88:"https://demo.themeisle.com/belise/wp-content/themes/belise/img/front-page-hero-image.jpg";s:28:"belise_nova_menu_title_links";b:0;s:16:"header_textcolor";s:6:"363639";s:16:"background_color";s:6:"f2ebe0";s:12:"color_scheme";s:7:"default";s:12:"accent_color";s:7:"#dadfe8";s:31:"belise_menus_section_categories";a:4:{i:0;s:6:"brunch";i:1;s:7:"dessert";i:2;s:6:"dinner";i:3;s:6:"drinks";}}s:7:"options";a:9:{s:9:"site_icon";s:1:"0";s:44:"wpseo_internallinks[breadcrumbs-blog-remove]";b:0;s:36:"wpseo_internallinks[breadcrumbs-sep]";s:7:"&raquo;";s:37:"wpseo_internallinks[breadcrumbs-home]";s:4:"Home";s:39:"wpseo_internallinks[breadcrumbs-prefix]";s:0:"";s:46:"wpseo_internallinks[breadcrumbs-archiveprefix]";s:12:"Archives for";s:45:"wpseo_internallinks[breadcrumbs-searchprefix]";s:16:"You searched for";s:41:"wpseo_internallinks[breadcrumbs-404crumb]";s:25:"Error 404: Page not found";s:23:"nav_menus_created_posts";a:0:{}}}

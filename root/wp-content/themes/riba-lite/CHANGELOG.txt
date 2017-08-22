@@ -1,0 +1,102 @@
+### v 1.0.21
+    - Removed Kiwi
+
+### V 1.0.20
+    - Updated TGMPA to recommend Kiwi Social Share
+    - Removed Appearance -> More Themes
+
+### V 1.0.17
+	- Updated theme screenshot
+
+### V 1.0.16
+    - Switched from 3 font-families: Lato, Domine & Source Sans PRO to only 1 - Cabin
+    - Removed fix for responsive videos. Was messing up Twitter embeds
+    - Slightly tweaked the upsell in the customizer to be less annoying
+    - Removed some extra CSS styling from the Customizer
+
+### v1.0.15
+    - Has been changed the copyright year on footer and customizer.
+
+### v1.0.14
+    - Has been fixed the jQuery error in console on WordPress v4.5.
+
+### v1.0.13
+    - Has been removed yellow border from sticky post.
+    - Has been added collapse responsive menu.
+
+### v1.0.12
+    - Has been updated Theme Documentation link from customizer.
+
+### v1.0.11
+    - Has been fixed social share from customizer.
+    - Has been fixed CSS for full width on big viewport.
+
+### V1.0.10
+    - Has been fixed color picker from customizer.
+    - Has been fixed the responsive menu. The menu links not working.
+
+### V1.0.8
+    - Added possibility of removing social icons from the top bar
+    - Fixed search icon collapsing over the logo on mobile devices
+    - Fixed the menu not being responsive on mobile devices and being hidden behind other divs (clearifx to the rescue)
+    - Added typography & advertising upsell links
+    - Removed 'rate us' from customizer
+    - Minor CSS changes to the address the upsell features 
+    - Removes 'blog sidebar' (unused)
+
+### V1.0.7
+    - Has been implemented WooCommerce.
+
+### V1.0.6
+    - Added hover effect on images post.
+
+###
+   V 1.0.5
+   - Fixed customizer upsell butotns
+
+
+###
+    V 1.0.3.1
+    - Replaced prefix rl_ with theme slug according to w.org rules ...
+    -
+
+### V 1.0.3
+    - Added TGMPA.
+    - Added Login Customizer.
+    - Updated header menu (CSS fixes).
+    - Added Contact bar & full-screen search functionality.
+    - Added breadcrumbs on single blog posts via hook.
+    - Fixed Line height problem on related posts.
+    - Added Parallax text fade & opacity effect on single blog posts.
+    - Added up-sell features.
+    - Fixed CSS Issues in the Customizer
+
+### V 1.0.2
+    - Updated screenshot
+    - Added action Hooks
+        - mtl_after_content
+            - sharing bar
+            - related posts
+            - author box
+        - mtl_before_content
+            - sharing bar (by option)
+        - mtl_entry_meta
+            - post meta
+                - estimated reading time
+                - author
+                - posted on
+    - Created /components/ folders; Most of the functions / classes found in /inc/extras.php are now located in their corresponing class PHP files (removing / adding components is now easier)
+    - Sanitized URL return functions from /inc/components/class.mt-breadcrumbs.php
+    - Customizer
+        - Replaced the customizer section setting: "separator_type" (used to allow HTML) to a drop-down with a few options
+        - Addded posibility of displaying the sharing bar before / after content (prior version only allowed for the sharing bar to be displayed at the end of the content).
+    - If MBYTplayer script is turned off (Customizer -> Advanced), video controls aren't displayed and as a fallback, the featured post image is displayed instead of the video background
+    - Added preloader styles as a customizer section (more preloader styles will be added in the near fuure)
+
+### V 1.0.1
+    - Updated screenshot
+    - fixed a few responsive bugs
+
+
+### V 1.0.0
+    - Initial Release

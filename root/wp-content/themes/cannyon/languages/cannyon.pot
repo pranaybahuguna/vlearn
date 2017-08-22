@@ -1,0 +1,1816 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-05 16:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:27
+#, php-format
+msgid "Error %s"
+msgstr ""
+
+#: 404.php:45
+msgid "Resource not found"
+msgstr ""
+
+#: 404.php:46 front-page.php:138 templates/loop.php:30
+msgid ""
+"We apologize but this page, post or resource does not exist or can not be "
+"found."
+msgstr ""
+
+#: archive.php:38 archive.php:48
+#, php-format
+msgid "Yearly archives - %s"
+msgstr ""
+
+#: archive.php:39
+#, php-format
+msgid "Monthly archives - %s"
+msgstr ""
+
+#: archive.php:42
+msgid "Daily Archives"
+msgstr ""
+
+#: archive.php:51
+msgid "Monthly Archives"
+msgstr ""
+
+#: archive.php:57
+msgid "Yearly Archives"
+msgstr ""
+
+#: archive.php:60
+msgid "Archives"
+msgstr ""
+
+#: author.php:26
+msgid "Author"
+msgstr ""
+
+#: category.php:33
+msgid "Category Archives"
+msgstr ""
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:24
+#, php-format
+msgctxt "Title before comment(s) list"
+msgid "Comment ( %s )"
+msgid_plural "Comments ( %s )"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39 templates/pagination.php:28
+#, php-format
+msgid "%s Prev"
+msgstr ""
+
+#: comments.php:40 templates/pagination.php:29
+#, php-format
+msgid "Next %s"
+msgstr ""
+
+#: comments.php:63 comments.php:79 comments.php:79
+msgid "Nickname ( required )"
+msgstr ""
+
+#: comments.php:68 comments.php:82 comments.php:82
+msgid "E-mail ( required )"
+msgstr ""
+
+#: comments.php:73 comments.php:85 comments.php:85
+msgid "Website"
+msgstr ""
+
+#: comments.php:96
+msgid "You may use these HTML tags and attributes"
+msgstr ""
+
+#: comments.php:104
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:106 comments.php:107 comments.php:110
+msgid "Comment"
+msgstr ""
+
+#: comments.php:106
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:107
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:107
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:107
+msgid "Log out?"
+msgstr ""
+
+#: footer.php:174
+#, php-format
+msgid "Copyright &copy; %s %s. Powered by %s."
+msgstr ""
+
+#: front-page.php:122 page.php:97 single.php:66
+msgid "Pages"
+msgstr ""
+
+#: front-page.php:137 templates/loop.php:25
+msgid "No results found"
+msgstr ""
+
+#: functions.php:71 cfg/cfgs.php:211
+msgid "Site Identity"
+msgstr ""
+
+#: functions.php:77 functions.php:111 functions.php:166 functions.php:182
+#: functions.php:198 functions.php:214 functions.php:380 functions.php:485
+#: functions.php:595 functions.php:704 functions.php:786 functions.php:1238
+#: functions.php:1660
+#, php-format
+msgid ""
+"Discover the differences between the Cannyon free WordPress theme and the "
+"Premium version. %s"
+msgstr ""
+
+#: functions.php:77 functions.php:111 functions.php:166 functions.php:182
+#: functions.php:198 functions.php:214 functions.php:380 functions.php:485
+#: functions.php:595 functions.php:704 functions.php:786 functions.php:1238
+#: functions.php:1660
+msgid "See the Differences"
+msgstr ""
+
+#: functions.php:92
+msgid "Preview Logo"
+msgstr ""
+
+#: functions.php:105
+msgid "Site Colors"
+msgstr ""
+
+#: functions.php:128
+msgid "First Site Color"
+msgstr ""
+
+#: functions.php:145
+msgid "Second Site Color"
+msgstr ""
+
+#: functions.php:160 cfg/cfgs.php:213
+msgid "Background Image"
+msgstr ""
+
+#: functions.php:176 cfg/cfgs.php:214 templates/header.php:76
+msgid "Header Image"
+msgstr ""
+
+#: functions.php:192 cfg/cfgs.php:215
+msgid "Header Elements"
+msgstr ""
+
+#: functions.php:207
+msgid "General"
+msgstr ""
+
+#: functions.php:227
+msgid "Display Header on Front Page"
+msgstr ""
+
+#: functions.php:241
+msgid "Display Header on Blog Page"
+msgstr ""
+
+#: functions.php:255
+msgid "Display Header on Templates"
+msgstr ""
+
+#: functions.php:256
+msgid ""
+"enabale / disable header on: Archives, Categories, Tags, Author, 404 and "
+"Search Results."
+msgstr ""
+
+#: functions.php:270
+msgid "Display Header on Single Posts"
+msgstr ""
+
+#: functions.php:284
+msgid "Display Header on Single Pages"
+msgstr ""
+
+#: functions.php:298
+msgid "Header height"
+msgstr ""
+
+#: functions.php:299
+msgid "the recommended minimum height should be 300 px"
+msgstr ""
+
+#: functions.php:323 functions.php:559 functions.php:670
+msgid "Background Color"
+msgstr ""
+
+#: functions.php:340
+msgid "Mask Color"
+msgstr ""
+
+#: functions.php:354
+msgid "Mask Opacity"
+msgstr ""
+
+#: functions.php:355
+msgid ""
+"by default the mask is a dark transparent foil over the header background "
+"image."
+msgstr ""
+
+#: functions.php:373
+msgid "Content"
+msgstr ""
+
+#: functions.php:393
+msgid "Display Headline"
+msgstr ""
+
+#: functions.php:400 templates/header.php:5
+msgid "Cannyon is a clean WordPress theme"
+msgstr ""
+
+#: functions.php:406
+msgid "Headline"
+msgstr ""
+
+#: functions.php:422
+msgid "Headline Color"
+msgstr ""
+
+#: functions.php:438
+msgid "Display Description"
+msgstr ""
+
+#: functions.php:445 templates/header.php:6
+msgid "freemium WordPress theme developed by myThem.es"
+msgstr ""
+
+#: functions.php:451 functions.php:542 functions.php:652
+msgid "Description"
+msgstr ""
+
+#: functions.php:467
+msgid "Description Color"
+msgstr ""
+
+#: functions.php:478 functions.php:521 templates/header.php:17
+msgid "First Button"
+msgstr ""
+
+#: functions.php:498
+msgid "Display first button"
+msgstr ""
+
+#: functions.php:512 functions.php:622
+msgid "URL"
+msgstr ""
+
+#: functions.php:513
+msgid "Link for first button"
+msgstr ""
+
+#: functions.php:527 functions.php:637
+msgid "Label"
+msgstr ""
+
+#: functions.php:528
+msgid "Text for first button"
+msgstr ""
+
+#: functions.php:536 templates/header.php:18
+msgid "first button link description..."
+msgstr ""
+
+#: functions.php:543
+msgid "link description for first button"
+msgstr ""
+
+#: functions.php:560
+msgid "Overwrite First Site Color."
+msgstr ""
+
+#: functions.php:576 functions.php:687
+msgid "Background Color ( over )"
+msgstr ""
+
+#: functions.php:577
+msgid "when the mouse cursor is over the button. Overwrite Second Site Color."
+msgstr ""
+
+#: functions.php:588 functions.php:631 templates/header.php:22
+msgid "Second Button"
+msgstr ""
+
+#: functions.php:608
+msgid "Display second button"
+msgstr ""
+
+#: functions.php:623
+msgid "Link for second button"
+msgstr ""
+
+#: functions.php:638
+msgid "Text for second button"
+msgstr ""
+
+#: functions.php:646 templates/header.php:23
+msgid "second button link description..."
+msgstr ""
+
+#: functions.php:653
+msgid "link description for second button"
+msgstr ""
+
+#: functions.php:688
+msgid "when the mouse cursor is over the button"
+msgstr ""
+
+#: functions.php:698 cfg/cfgs.php:216
+msgid "Breadcrumbs"
+msgstr ""
+
+#: functions.php:717
+msgid "Display breadcrumbs"
+msgstr ""
+
+#: functions.php:725 lib/mythemes.breadcrumbs.class.php:10
+msgid "Home"
+msgstr ""
+
+#: functions.php:731
+msgid "\"Home\" label"
+msgstr ""
+
+#: functions.php:732
+msgid "breadcrumbs \"Home\" link label."
+msgstr ""
+
+#: functions.php:740 lib/mythemes.breadcrumbs.class.php:9
+msgid "go to home"
+msgstr ""
+
+#: functions.php:746
+msgid "\"Home\" link description"
+msgstr ""
+
+#: functions.php:747
+msgid "breadcrumbs \"Home\" link description."
+msgstr ""
+
+#: functions.php:761
+msgid "Space"
+msgstr ""
+
+#: functions.php:762
+msgid "inner top and bottom space allow you to change breadcrumbs height."
+msgstr ""
+
+#: functions.php:780 cfg/cfgs.php:217
+msgid "Additional"
+msgstr ""
+
+#: functions.php:793 index.php:30
+msgid "Blog"
+msgstr ""
+
+#: functions.php:799
+msgid "Title for Blog Page"
+msgstr ""
+
+#: functions.php:815
+msgid "jetPack Nr. Views"
+msgstr ""
+
+#: functions.php:816
+msgid "enable / disable jetPack number of views."
+msgstr ""
+
+#: functions.php:831
+msgid "Load Google Fonts"
+msgstr ""
+
+#: functions.php:832
+msgid ""
+"enable / disable the Google Fonts. This option allow you to make the fonts "
+"style like in the 0.0.3 version."
+msgstr ""
+
+#: functions.php:846
+msgid "Display default content"
+msgstr ""
+
+#: functions.php:847
+msgid "enable / disable default content from sidebars."
+msgstr ""
+
+#: functions.php:861
+msgid "Display top meta"
+msgstr ""
+
+#: functions.php:862
+msgid "enable / disable top meta from single posts ( all posts )."
+msgstr ""
+
+#: functions.php:876
+msgid "Display bottom meta"
+msgstr ""
+
+#: functions.php:877
+msgid "enable / disable bottom meta from single posts ( all posts )."
+msgstr ""
+
+#: functions.php:894
+msgid "Display Number of Views"
+msgstr ""
+
+#: functions.php:895
+msgid "enable / disable display number of views from blog."
+msgstr ""
+
+#: functions.php:910
+msgid "HTML Suggestions"
+msgstr ""
+
+#: functions.php:911
+msgid "enable / disable HTML Suggestions after comments form ( all posts )."
+msgstr ""
+
+#: functions.php:922 functions.php:955 functions.php:1011 functions.php:1067
+#: functions.php:1123 functions.php:1194 cfg/cfgs.php:218
+msgid "Layout"
+msgstr ""
+
+#: functions.php:930 lib/mythemes.setup.class.php:33
+#: cfg/pages/cannyon-faq.php:27
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:931 lib/mythemes.setup.class.php:43
+#: cfg/pages/cannyon-faq.php:28
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: functions.php:932 lib/mythemes.setup.class.php:63
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:933 lib/mythemes.setup.class.php:53
+msgid "Post Sidebar"
+msgstr ""
+
+#: functions.php:934 lib/mythemes.setup.class.php:73
+#: cfg/pages/cannyon-faq.php:31
+msgid "Special Page Sidebar"
+msgstr ""
+
+#: functions.php:941
+msgid "Default"
+msgstr ""
+
+#: functions.php:942
+msgid ""
+"Default Layout is used for the next templates: Blog, Archives, Categories, "
+"Tags, Author and Search Results."
+msgstr ""
+
+#: functions.php:960 functions.php:1016 functions.php:1072 functions.php:1128
+#: functions.php:1199
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:961 functions.php:1017 functions.php:1073 functions.php:1129
+#: functions.php:1200
+msgid "Full Width"
+msgstr ""
+
+#: functions.php:962 functions.php:1018 functions.php:1074 functions.php:1130
+#: functions.php:1201
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:974 functions.php:1030 functions.php:1086 functions.php:1142
+#: functions.php:1213
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:982
+msgid "on the premium version you can create unlimited number of sidebars"
+msgstr ""
+
+#: functions.php:992
+msgid "Front Page"
+msgstr ""
+
+#: functions.php:998
+msgid ""
+"In order to use this option set you need to activate a staic page on Front "
+"Page from - \"Static Front Page\" tab"
+msgstr ""
+
+#: functions.php:1038 functions.php:1094 functions.php:1150 functions.php:1221
+msgid "On the premium version you can create unlimited number of sidebars"
+msgstr ""
+
+#: functions.php:1048
+msgid "Page"
+msgstr ""
+
+#: functions.php:1054
+msgid ""
+"On the premium version for the each page you can overwrite the Layout "
+"options with the custom settings."
+msgstr ""
+
+#: functions.php:1104
+msgid "Post"
+msgstr ""
+
+#: functions.php:1110
+msgid ""
+"On the premium version for the each post you can overwrite the Layout "
+"options with the custom settings."
+msgstr ""
+
+#: functions.php:1160
+msgid "Special Page"
+msgstr ""
+
+#: functions.php:1166
+msgid ""
+"On the premium version for each page you can overwrite the Layout options "
+"with custom settings."
+msgstr ""
+
+#: functions.php:1179
+msgid "Special page"
+msgstr ""
+
+#: functions.php:1180
+msgid ""
+"for selected page you can overwrite default page layout settings with "
+"special layout settings"
+msgstr ""
+
+#: functions.php:1232 cfg/cfgs.php:219
+msgid "Social"
+msgstr ""
+
+#: functions.php:1251
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:1265
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:1280
+msgid "Skype"
+msgstr ""
+
+#: functions.php:1294
+msgid "Renren"
+msgstr ""
+
+#: functions.php:1308
+msgid "Github"
+msgstr ""
+
+#: functions.php:1322
+msgid "Rdio"
+msgstr ""
+
+#: functions.php:1336
+msgid "Linkedin"
+msgstr ""
+
+#: functions.php:1350
+msgid "Behance"
+msgstr ""
+
+#: functions.php:1364
+msgid "Dropbox"
+msgstr ""
+
+#: functions.php:1378
+msgid "Flickr"
+msgstr ""
+
+#: functions.php:1392
+msgid "Tumblr"
+msgstr ""
+
+#: functions.php:1406
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:1420
+msgid "Vkontakte"
+msgstr ""
+
+#: functions.php:1434
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:1448
+msgid "Evernote"
+msgstr ""
+
+#: functions.php:1462
+msgid "Flattr"
+msgstr ""
+
+#: functions.php:1476
+msgid "Picasa"
+msgstr ""
+
+#: functions.php:1490
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:1504
+msgid "Mixi"
+msgstr ""
+
+#: functions.php:1518
+msgid "Stumbleupon"
+msgstr ""
+
+#: functions.php:1532
+msgid "Lastfm"
+msgstr ""
+
+#: functions.php:1546
+msgid "GPlus"
+msgstr ""
+
+#: functions.php:1560
+msgid "Google circles"
+msgstr ""
+
+#: functions.php:1574
+msgid "YouTube Play"
+msgstr ""
+
+#: functions.php:1588
+msgid "YouTube"
+msgstr ""
+
+#: functions.php:1602
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:1616
+msgid "Smashing"
+msgstr ""
+
+#: functions.php:1630
+msgid "Soundcloud"
+msgstr ""
+
+#: functions.php:1644
+msgid "Rss"
+msgstr ""
+
+#: functions.php:1654 cfg/cfgs.php:220
+msgid "Others"
+msgstr ""
+
+#: functions.php:1673 cfg/cfgs.php:491
+msgid "Custom CSS"
+msgstr ""
+
+#: functions.php:1686
+msgid "Custom CSS IE"
+msgstr ""
+
+#: functions.php:1687
+msgid "This Custom CSS field is used just for Internet Explorer"
+msgstr ""
+
+#: functions.php:1700
+msgid "Custom CSS IE 11"
+msgstr ""
+
+#: functions.php:1701
+msgid "This Custom CSS field is used just for Internet Explorer 11"
+msgstr ""
+
+#: functions.php:1714
+msgid "Custom CSS IE 10"
+msgstr ""
+
+#: functions.php:1715
+msgid "This Custom CSS field is used just for Internet Explorer 10"
+msgstr ""
+
+#: functions.php:1728
+msgid "Custom CSS IE 9"
+msgstr ""
+
+#: functions.php:1729
+msgid "This Custom CSS field is used just for Internet Explorer 9"
+msgstr ""
+
+#: functions.php:1742
+msgid "Custom CSS IE 8"
+msgstr ""
+
+#: functions.php:1743
+msgid "This Custom CSS field is used just for Internet Explorer 8"
+msgstr ""
+
+#: functions.php:1751
+#, php-format
+msgid "Copyright &copy; 2015. Powered by %s."
+msgstr ""
+
+#: functions.php:1757
+msgid "Copyright"
+msgstr ""
+
+#: functions.php:1758
+msgid ""
+"You can change only the first side of copyright. With the premium version "
+"you can change all the footer text."
+msgstr ""
+
+#: functions.php:1781
+msgid "Reset to Default"
+msgstr ""
+
+#: search.php:30
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: searchform.php:4 searchform.php:4 searchform.php:4
+msgid "type here..."
+msgstr ""
+
+#. Name of the theme
+#: sidebar-footer-first.php:9
+msgid "Cannyon"
+msgstr ""
+
+#: sidebar-footer-first.php:11
+#, php-format
+msgid ""
+"It is a clean white WordPress theme %s with creative design and %s "
+"responsive layout."
+msgstr ""
+
+#: sidebar-footer-fourth.php:9 sidebar-special-page.php:17
+msgid "Working Hours"
+msgstr ""
+
+#: sidebar-footer-fourth.php:11 sidebar-special-page.php:20
+msgid "Monday to Friday"
+msgstr ""
+
+#: sidebar-footer-second.php:9 sidebar-special-page.php:25
+msgid "Address"
+msgstr ""
+
+#: sidebar-footer-second.php:10
+#, php-format
+msgid "1 Infinite Loop %s Cupertino, CA 95014 %s United States"
+msgstr ""
+
+#: sidebar-footer-third.php:9
+msgid "Contact"
+msgstr ""
+
+#: sidebar-footer-third.php:11 sidebar-special-page.php:11
+#, php-format
+msgid "facebook: %s"
+msgstr ""
+
+#: sidebar-footer-third.php:12 sidebar-special-page.php:12
+#, php-format
+msgid "direct: %s"
+msgstr ""
+
+#: sidebar-footer-third.php:13
+#, php-format
+msgid "e-mail: %s"
+msgstr ""
+
+#: sidebar-front-page-header-first.php:10
+msgid "Many Components"
+msgstr ""
+
+#: sidebar-front-page-header-first.php:11
+msgid ""
+"There are a lot of different components that will help you to make a perfect "
+"suit for startup project with WordPress theme Cannyon."
+msgstr ""
+
+#: sidebar-front-page-header-second.php:10
+msgid "Block Model"
+msgstr ""
+
+#: sidebar-front-page-header-second.php:11
+msgid ""
+"With Cannyon free WordPress theme you can easily combine components in a "
+"variety ways for different design projects. It's easy!"
+msgstr ""
+
+#: sidebar-front-page-header-third.php:10
+msgid "Responsive Layout"
+msgstr ""
+
+#: sidebar-front-page-header-third.php:11
+msgid ""
+"We haven't forgotten about responsive layout. With Cannyon free WordPress "
+"theme, you can create a website with full mobile support."
+msgstr ""
+
+#: sidebar-front-page.php:14 sidebar-page.php:14
+msgid "Default Content"
+msgstr ""
+
+#: sidebar-front-page.php:16 sidebar-page.php:16
+msgid ""
+"You can hide all default content from sidebars if you go to Admin Dashboard "
+"&rsaquo; Appearance &rsaquo; Customize &rsaquo; Additional and disable "
+"option \"Display default content\"."
+msgstr ""
+
+#: sidebar-post.php:26 cfg/widgets/mythemes.post_meta.class.php:48
+msgid "Edit"
+msgstr ""
+
+#: sidebar-post.php:29 cfg/widgets/mythemes.post_meta.class.php:51
+#, php-format
+msgid "Writed by %s"
+msgstr ""
+
+#: sidebar-post.php:36 cfg/widgets/mythemes.post_meta.class.php:58
+#, php-format
+msgctxt "Number of comment(s) from widget \"myThemes: Meta Details\""
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: sidebar-post.php:49 cfg/widgets/mythemes.post_meta.class.php:71
+#, php-format
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: sidebar-post.php:59
+msgid "Article Categories"
+msgstr ""
+
+#: sidebar-post.php:73
+msgid "Article Tags"
+msgstr ""
+
+#: sidebar-special-page.php:9
+msgid "Contact Us"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Tags"
+msgstr ""
+
+#: sidebar.php:44
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:55
+#, php-format
+msgid "View all posts filed under - %s"
+msgstr ""
+
+#: tag.php:29
+msgid "Tag Archives"
+msgstr ""
+
+#: cfg/cfgs.php:22
+msgid ""
+"myThem.es Marketplace provides WordPress themes with the best quality and "
+"the smallest prices."
+msgstr ""
+
+#: cfg/cfgs.php:29
+msgid "Cannyon - free Responsive and Multipupose WordPress Themes."
+msgstr ""
+
+#: cfg/cfgs.php:43
+msgid "Welcome Message !"
+msgstr ""
+
+#: cfg/cfgs.php:46
+msgid ""
+"Thank you for choosing myThem.es and use one of our WordPress Themes your "
+"choice is greatly appreciated!"
+msgstr ""
+
+#: cfg/cfgs.php:48
+msgid "If you have any questions - just ask!"
+msgstr ""
+
+#: cfg/cfgs.php:50
+msgid "Please help us increase the theme quality by reporting bugs."
+msgstr ""
+
+#: cfg/cfgs.php:52
+msgid "And also please help us increase the theme rank!"
+msgstr ""
+
+#: cfg/cfgs.php:71
+msgid "Default content from Sidebars: Front Page, Footer, Blog, Single."
+msgstr ""
+
+#: cfg/cfgs.php:74
+msgid "GENERAL ABOUT DEFAULT CONTENT"
+msgstr ""
+
+#: cfg/cfgs.php:76
+msgid "The default content is available only in sidebars !"
+msgstr ""
+
+#: cfg/cfgs.php:77
+msgid "The default content is hardcoded in theme files. But you can:"
+msgstr ""
+
+#: cfg/cfgs.php:78
+msgid "1. Disable all default content and fill with your content."
+msgstr ""
+
+#: cfg/cfgs.php:79
+msgid "2. Replace one or more sections with your content."
+msgstr ""
+
+#: cfg/cfgs.php:82
+msgid ""
+"You can disable all default content if you go to <strong>Admin Dashboard "
+"&rsaquo; Appearance &rsaquo; Customize &rsaquo; Additional</strong> and "
+"uncheck \"Display default content\" option."
+msgstr ""
+
+#: cfg/cfgs.php:85
+msgid "To replace Header - Front Page default content ( with 3 sidebars )"
+msgstr ""
+
+#: cfg/cfgs.php:86
+msgid ""
+"go to: <strong>Admin Dashboard &rsaquo; Appearance &rsaquo; Widgets</strong>"
+msgstr ""
+
+#: cfg/cfgs.php:87
+msgid "here you have multiple sidebars as well as the ones below:"
+msgstr ""
+
+#: cfg/cfgs.php:89 cfg/cfgs.php:93
+msgid "..."
+msgstr ""
+
+#: cfg/cfgs.php:90 lib/mythemes.setup.class.php:84
+msgid "Header - First Front Page Sidebar"
+msgstr ""
+
+#: cfg/cfgs.php:91 lib/mythemes.setup.class.php:94
+msgid "Header - Second Front Page Sidebar"
+msgstr ""
+
+#: cfg/cfgs.php:92 lib/mythemes.setup.class.php:104
+msgid "Header - Third Front Page Sidebar"
+msgstr ""
+
+#: cfg/cfgs.php:95
+msgid ""
+"<strong>IMPORTANT</strong>: if the option \"Display default content\" is "
+"enabled and the Header Sidebars is empty then the default content ( "
+"hardcoded ) in this sidebar will be displayed."
+msgstr ""
+
+#: cfg/cfgs.php:96
+msgid ""
+"You just need to put a text widget into a header sidebar and fill the Text "
+"widget with you Title and with your Content."
+msgstr ""
+
+#: cfg/cfgs.php:97
+msgid ""
+"<strong>IMPORTANT</strong>: The widgets are placed on the left and the "
+"sidebars are placed on the right ( <strong>Appearance &rsaquo; "
+"Widgets</strong> )."
+msgstr ""
+
+#: cfg/cfgs.php:103
+msgid "FRONT PAGE"
+msgstr ""
+
+#: cfg/cfgs.php:105
+msgid "On the home page, there are 3 components below the HEADER image:"
+msgstr ""
+
+#: cfg/cfgs.php:109
+msgid "1. MANY COMPONENTS"
+msgstr ""
+
+#: cfg/cfgs.php:110
+msgid "2. BLOCK MODEL"
+msgstr ""
+
+#: cfg/cfgs.php:111
+msgid "3. RESPONSIVE LAYOUT"
+msgstr ""
+
+#: cfg/cfgs.php:115
+msgid ""
+"Here we have three sidebars with default content. These are \"Header Front "
+"Page Sidebars\". If you go to Admin Dashboard &rsaquo; Appearance &rsaquo; "
+"Widgets you can see:"
+msgstr ""
+
+#: cfg/cfgs.php:119
+msgid "1. Header - First Front Page sidebar"
+msgstr ""
+
+#: cfg/cfgs.php:120
+msgid "2. Header - Second Front Page sidebar"
+msgstr ""
+
+#: cfg/cfgs.php:121
+msgid "3. Header - Third Front Page sidebar"
+msgstr ""
+
+#: cfg/cfgs.php:125
+msgid ""
+"You can replace the default content with your custom content. Just put a "
+"\"Text\" widget into each \"Header Front Page Sidebar\" and fill it with "
+"your content."
+msgstr ""
+
+#: cfg/cfgs.php:129
+msgid "FOOTER"
+msgstr ""
+
+#: cfg/cfgs.php:131
+msgid "In the footer before the copyright section there are 4 components:"
+msgstr ""
+
+#: cfg/cfgs.php:135
+msgid "1. Cannyon"
+msgstr ""
+
+#: cfg/cfgs.php:136
+msgid "2. ADDRESS"
+msgstr ""
+
+#: cfg/cfgs.php:137
+msgid "3. CONTACT"
+msgstr ""
+
+#: cfg/cfgs.php:138
+msgid "4. WORKING HOURS"
+msgstr ""
+
+#: cfg/cfgs.php:142
+msgid ""
+"Here we have four sidebars with default content. These are \"Footer "
+"Sidebars\". You can see sidebars in Admin Dashboard &rsaquo; Appearance "
+"&rsaquo; Widgets:"
+msgstr ""
+
+#: cfg/cfgs.php:146
+msgid "1. Footer - First Sidebar ( uses the sample Text widget )"
+msgstr ""
+
+#: cfg/cfgs.php:147
+msgid "2. Footer - Second Sidebar ( uses the sample Text widget )"
+msgstr ""
+
+#: cfg/cfgs.php:148
+msgid "3. Footer - Third Sidebar ( uses the sample Text widget )"
+msgstr ""
+
+#: cfg/cfgs.php:149
+msgid "4. Footer - Fourth Sidebar ( uses the sample Text widget )"
+msgstr ""
+
+#: cfg/cfgs.php:153
+msgid "BLOG ( MAIN SIDEBAR )"
+msgstr ""
+
+#: cfg/cfgs.php:155
+msgid ""
+"The content from next widgets: \"Search\", \"Tags Cloud\" and \"Categories\" "
+"is used by default."
+msgstr ""
+
+#: cfg/cfgs.php:159
+msgid "SINGLE POST ( SINGLE SIDEBAR )"
+msgstr ""
+
+#: cfg/cfgs.php:161
+msgid ""
+"The content from next widgets: \"Post Meta [myThem.es]\", \"Post Categories "
+"[myThem.es]\" and \"Post Tags [myThem.es]\" is used by default."
+msgstr ""
+
+#: cfg/cfgs.php:165
+msgid "REPLACE CONTENT VS DISABLE DEFAULT CONTENT"
+msgstr ""
+
+#: cfg/cfgs.php:167
+msgid ""
+"If you disable the default content it will disable all default content from "
+"your web site ( sidebars with default content listed below ):"
+msgstr ""
+
+#: cfg/cfgs.php:171
+msgid "- Front Page Heade Sidebars"
+msgstr ""
+
+#: cfg/cfgs.php:172
+msgid "- Footer Sidebars"
+msgstr ""
+
+#: cfg/cfgs.php:173
+msgid "- Main Blog Sidebar"
+msgstr ""
+
+#: cfg/cfgs.php:174
+msgid "- Single Sidebar"
+msgstr ""
+
+#: cfg/cfgs.php:175
+msgid "- ..."
+msgstr ""
+
+#: cfg/cfgs.php:179
+msgid ""
+"Also you can replace the default content with your content. This will allow "
+"you to make one or more changes. You will not need to replace all default "
+"content."
+msgstr ""
+
+#: cfg/cfgs.php:181
+msgid ""
+"To replace the default content you need to add a widget with your content in "
+"the sidebar with default content ( listed above). The default content will "
+"automatically change with your content (only for this sidebar)."
+msgstr ""
+
+#: cfg/cfgs.php:185
+msgid "Custom CSS and Customizations"
+msgstr ""
+
+#: cfg/cfgs.php:188
+msgid ""
+"This theme comes with special option. This option allow add custom css to "
+"customize your web site to your needs."
+msgstr ""
+
+#: cfg/cfgs.php:190
+msgid "To use it go to Admin Dashboard"
+msgstr ""
+
+#: cfg/cfgs.php:192
+msgid "Appearance &rsaquo; Customize &rsaquo; Additional Css."
+msgstr ""
+
+#: cfg/cfgs.php:194
+msgid ""
+"You can use it for multiple cases, just need to add you css in this field."
+msgstr ""
+
+#: cfg/cfgs.php:197
+msgid "Customize the Theme"
+msgstr ""
+
+#: cfg/cfgs.php:200
+msgid ""
+"This theme comes with a set of options what allow you to customize content, "
+"header, layouts, social items and other."
+msgstr ""
+
+#: cfg/cfgs.php:202
+msgid "You can see theme options if you go to Admin Dashboard"
+msgstr ""
+
+#: cfg/cfgs.php:204
+msgid "Appearance &rsaquo; Customize"
+msgstr ""
+
+#: cfg/cfgs.php:206
+msgid "Here you can see:"
+msgstr ""
+
+#: cfg/cfgs.php:212
+msgid "Colors"
+msgstr ""
+
+#: cfg/cfgs.php:221
+msgid "Menus"
+msgstr ""
+
+#: cfg/cfgs.php:222
+msgid "Widgets"
+msgstr ""
+
+#: cfg/cfgs.php:223
+msgid "Static Front Page"
+msgstr ""
+
+#: cfg/cfgs.php:228
+msgid "All you have to do is change them and view live changes."
+msgstr ""
+
+#: cfg/cfgs.php:230
+msgid "Try and you will discover how easy it is to customize."
+msgstr ""
+
+#: cfg/cfgs.php:236
+msgid "Support"
+msgstr ""
+
+#: cfg/cfgs.php:237
+msgid "Basic"
+msgstr ""
+
+#: cfg/cfgs.php:238
+msgid "Priority"
+msgstr ""
+
+#: cfg/cfgs.php:241
+msgid "Customizations"
+msgstr ""
+
+#: cfg/cfgs.php:242
+msgid "Selective ( at our choice )"
+msgstr ""
+
+#: cfg/cfgs.php:243
+msgid "Basic &amp; Selective ( at our choice )"
+msgstr ""
+
+#: cfg/cfgs.php:246
+msgid "Premium Support"
+msgstr ""
+
+#: cfg/cfgs.php:251
+msgid "Documentation"
+msgstr ""
+
+#: cfg/cfgs.php:256
+msgid "Responsive layout"
+msgstr ""
+
+#: cfg/cfgs.php:261
+msgid "Full support for multilanguages"
+msgstr ""
+
+#: cfg/cfgs.php:266
+msgid "NEW! Support for Custom Fonts ( with plugin Easy Google Fonts )"
+msgstr ""
+
+#: cfg/cfgs.php:271
+msgid "Custom Favicon"
+msgstr ""
+
+#: cfg/cfgs.php:276
+msgid "Custom Logo"
+msgstr ""
+
+#: cfg/cfgs.php:281
+msgid "Custom Colors"
+msgstr ""
+
+#: cfg/cfgs.php:286
+msgid "Scrollable header Menu"
+msgstr ""
+
+#: cfg/cfgs.php:291
+msgid "Menu Custom Colors (full)"
+msgstr ""
+
+#: cfg/cfgs.php:296
+msgid "Quick Contact Info ( email, phone )"
+msgstr ""
+
+#: cfg/cfgs.php:301
+msgid "Custom Header ( colors, elements )"
+msgstr ""
+
+#: cfg/cfgs.php:306
+msgid "Custom breadcrumbs settings"
+msgstr ""
+
+#: cfg/cfgs.php:311
+msgid "Front Page Header Sidebars ( 3 )"
+msgstr ""
+
+#: cfg/cfgs.php:316
+msgid "Shortcodes"
+msgstr ""
+
+#: cfg/cfgs.php:321
+msgid "Shortcodes Manager"
+msgstr ""
+
+#: cfg/cfgs.php:326
+msgid "NEW! List [Shortcode]"
+msgstr ""
+
+#: cfg/cfgs.php:331
+msgid "NEW! Timeline [Shortcode]"
+msgstr ""
+
+#: cfg/cfgs.php:336
+msgid "NEW! Post Grid [Shortcode]"
+msgstr ""
+
+#: cfg/cfgs.php:341
+msgid "NEW! Post List [Shortcode]"
+msgstr ""
+
+#: cfg/cfgs.php:346
+msgid "Classic Blog View"
+msgstr ""
+
+#: cfg/cfgs.php:351
+msgid "Classic Blog View Styles"
+msgstr ""
+
+#: cfg/cfgs.php:356
+msgid "Grid Blog View"
+msgstr ""
+
+#: cfg/cfgs.php:361
+msgid "Grid Blog View Styles"
+msgstr ""
+
+#: cfg/cfgs.php:366
+msgid "Infinit Scroll (autoload posts on page scroll)"
+msgstr ""
+
+#: cfg/cfgs.php:371
+msgid "Custom page Template \"Blog\" with settings"
+msgstr ""
+
+#: cfg/cfgs.php:376
+msgid "WP Classic comments"
+msgstr ""
+
+#: cfg/cfgs.php:381
+msgid "Facebook comments"
+msgstr ""
+
+#: cfg/cfgs.php:386
+msgid "Disqus comments"
+msgstr ""
+
+#: cfg/cfgs.php:391
+msgid "General header settings"
+msgstr ""
+
+#: cfg/cfgs.php:396
+msgid "Single post header settings ( each post )"
+msgstr ""
+
+#: cfg/cfgs.php:401
+msgid "Single page header settings ( each page )"
+msgstr ""
+
+#: cfg/cfgs.php:406
+msgid "Single portfolio Header settings ( each portfolio )"
+msgstr ""
+
+#: cfg/cfgs.php:411
+msgid "Related Posts ( by Tags or Categories )"
+msgstr ""
+
+#: cfg/cfgs.php:416
+msgid "Front Page layout"
+msgstr ""
+
+#: cfg/cfgs.php:421
+msgid "General layout settings"
+msgstr ""
+
+#: cfg/cfgs.php:426
+msgid "Posts layout settings"
+msgstr ""
+
+#: cfg/cfgs.php:431
+msgid "Single post layout settings ( each post )"
+msgstr ""
+
+#: cfg/cfgs.php:436
+msgid "Page layout settings"
+msgstr ""
+
+#: cfg/cfgs.php:441
+msgid "Single page layout settings ( each page )"
+msgstr ""
+
+#: cfg/cfgs.php:446
+msgid "Sidebar builder ( build unlimited number of sidebars )"
+msgstr ""
+
+#: cfg/cfgs.php:451
+msgid "Social settings"
+msgstr ""
+
+#: cfg/cfgs.php:456
+msgid "Footer Sidebars"
+msgstr ""
+
+#: cfg/cfgs.php:461
+msgid "Footer background image"
+msgstr ""
+
+#: cfg/cfgs.php:466
+msgid "Footer background color"
+msgstr ""
+
+#: cfg/cfgs.php:471
+msgid "Footer link and text colors"
+msgstr ""
+
+#: cfg/cfgs.php:476
+msgid "Footer copyright settings"
+msgstr ""
+
+#: cfg/cfgs.php:481
+msgid "Footer credit link settings"
+msgstr ""
+
+#: cfg/cfgs.php:486
+msgid "Footer Custom Menu"
+msgstr ""
+
+#: cfg/cfgs.php:496
+msgid "Additional JavaScript settings"
+msgstr ""
+
+#: cfg/cfgs.php:501
+msgid "Exclude pages / posts / features / testimonials from the search results"
+msgstr ""
+
+#: cfg/cfgs.php:506
+msgid "Exclude pages / posts / features / testimonials from the RSS Feed"
+msgstr ""
+
+#: cfg/cfgs.php:511
+msgid "External URL for each post / page"
+msgstr ""
+
+#: cfg/cfgs.php:516
+msgid "Video thumbnail extractor - YouTube &amp; Vimeo for each post"
+msgstr ""
+
+#: cfg/cfgs.php:521
+msgid "Post slideshow instead of thumbnail"
+msgstr ""
+
+#: cfg/cfgs.php:526
+msgid "2 Addvertising section ( before and after content ) for each post"
+msgstr ""
+
+#: cfg/cfgs.php:531
+msgid "Custom post Testimonials"
+msgstr ""
+
+#: cfg/cfgs.php:536
+msgid "Custom post Features"
+msgstr ""
+
+#: cfg/cfgs.php:541
+msgid "Additional Widgets"
+msgstr ""
+
+#: cfg/cfgs.php:546
+msgid "Gallery special Effects"
+msgstr ""
+
+#: cfg/cfgs.php:551
+msgid "jetpack widgets [styled]"
+msgstr ""
+
+#: cfg/cfgs.php:556
+msgid "jetpack related posts [styled]"
+msgstr ""
+
+#: cfg/cfgs.php:561
+msgid "jetpack post numbers of views"
+msgstr ""
+
+#: cfg/cfgs.php:566
+msgid "Contact Form 7 [styled]"
+msgstr ""
+
+#: cfg/default.php:5
+#, php-format
+msgid "Designed by %s."
+msgstr ""
+
+#: lib/mythemes.admin.class.php:111
+msgid "Please confirm to reset options"
+msgstr ""
+
+#: lib/mythemes.admin.class.php:111
+msgid "Reset Options"
+msgstr ""
+
+#: lib/mythemes.admin.class.php:112
+msgid "Update Options"
+msgstr ""
+
+#: lib/mythemes.admin.class.php:189
+msgid "Features &amp; Differences"
+msgstr ""
+
+#: lib/mythemes.admin.class.php:190
+msgid "The difference between the free and the premium version."
+msgstr ""
+
+#: lib/mythemes.admin.class.php:205
+msgid "Features"
+msgstr ""
+
+#: lib/mythemes.admin.class.php:206
+msgid "Free"
+msgstr ""
+
+#: lib/mythemes.admin.class.php:206
+msgid "current version"
+msgstr ""
+
+#: lib/mythemes.admin.class.php:207
+msgid "Premium"
+msgstr ""
+
+#: lib/mythemes.admin.class.php:207
+msgid "upgrade to premium"
+msgstr ""
+
+#: lib/mythemes.admin.class.php:250
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: lib/mythemes.ahtml.class.php:523
+msgid "On"
+msgstr ""
+
+#: lib/mythemes.ahtml.class.php:524
+msgid "Off"
+msgstr ""
+
+#: lib/mythemes.ahtml.class.php:591
+msgid "Choose File"
+msgstr ""
+
+#: lib/mythemes.breadcrumbs.class.php:38
+#, php-format
+msgid "See articles from category - %s"
+msgstr ""
+
+#: lib/mythemes.breadcrumbs.class.php:65
+#, php-format
+msgid "One Article"
+msgid_plural "%s Articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/mythemes.comments.class.php:26
+msgid "Reply"
+msgstr ""
+
+#: lib/mythemes.comments.class.php:42
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/mythemes.gallery.class.php:134
+msgid "None"
+msgstr ""
+
+#: lib/mythemes.gallery.class.php:135
+msgid "Effect Jazz"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:34
+msgid ""
+"Main Sidebar - is used by default for next templates: Blog, Archives, Author,"
+" Categories, Tags and Search Results."
+msgstr ""
+
+#: lib/mythemes.setup.class.php:44
+msgid "Front Page Sidebar - is used by default for Front Page template."
+msgstr ""
+
+#: lib/mythemes.setup.class.php:54
+msgid "Post Sidebar - is used by default for single post template."
+msgstr ""
+
+#: lib/mythemes.setup.class.php:64
+msgid "Page Sidebar - is used by default for page template."
+msgstr ""
+
+#: lib/mythemes.setup.class.php:74
+msgid "Special Page Sidebar - by default is used for Special Page Layout."
+msgstr ""
+
+#: lib/mythemes.setup.class.php:85
+msgid "Content for left front page header Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:95
+msgid "Content for middle front page header Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:105
+msgid "Content for right front page header Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:115
+msgid "Footer - First Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:116
+msgid "Content for first footer Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:125
+msgid "Footer - Second Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:126
+msgid "Content for second footer Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:135
+msgid "Footer - Third Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:136
+msgid "Content for third footer Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:145
+msgid "Footer - Fourth Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:146
+msgid "Content for fourth footer Sidebar"
+msgstr ""
+
+#: lib/mythemes.setup.class.php:157
+msgid "Header menu"
+msgstr ""
+
+#: lib/mythemes.tools.class.php:82
+msgid " - Select from list - "
+msgstr ""
+
+#: templates/loop.php:27
+msgid ""
+"We apologize, but we couldn't find anything matching your search request. "
+"Please try to search for a different term or topic."
+msgstr ""
+
+#: cfg/pages/cannyon-faq.php:13
+msgid "Cannyon FAQ"
+msgstr ""
+
+#: cfg/pages/cannyon-faq.php:29
+msgid "Default Page Sidebar"
+msgstr ""
+
+#: cfg/pages/cannyon-faq.php:30
+msgid "Default Post Sidebar"
+msgstr ""
+
+#: cfg/widgets/mythemes.post_categories.class.php:8
+msgid "Post Categories"
+msgstr ""
+
+#: cfg/widgets/mythemes.post_categories.class.php:10
+#: cfg/widgets/mythemes.post_meta.class.php:10
+#: cfg/widgets/mythemes.post_tags.class.php:10
+msgid "Use only for single template"
+msgstr ""
+
+#: cfg/widgets/mythemes.post_categories.class.php:59
+#: cfg/widgets/mythemes.post_meta.class.php:98
+#: cfg/widgets/mythemes.post_tags.class.php:77
+msgid "Title"
+msgstr ""
+
+#: cfg/widgets/mythemes.post_meta.class.php:8
+msgid "Post Meta"
+msgstr ""
+
+#: cfg/widgets/mythemes.post_tags.class.php:8
+msgid "Post Tags"
+msgstr ""
+
+#: templates/meta/top.php:13
+#, php-format
+msgid "Written by %s"
+msgstr ""
+
+#: templates/meta/top.php:13
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: templates/meta/top.php:20
+#, php-format
+msgid "on %s"
+msgstr ""
+
+#: templates/meta/top.php:27
+#, php-format
+msgctxt "Number of comment(s) from post meta"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/views/classic.php:11
+msgid "Read more about .."
+msgstr ""
+
+#: templates/views/classic.php:49
+msgid "Read More"
+msgstr ""
+
+#: templates/views/classic.php:79
+msgid "view"
+msgid_plural "views"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Description of the theme
+msgid ""
+"Cannyon is an white, clean, elegant, modern, beautiful and creative freemium "
+"WordPress theme built with HTML5 and CSS3. The clean, modern design can be "
+"used for any type of website: business, corporate, portfolio, products, "
+"creative, arts, design, construction, transport, manufacturing, ecology, "
+"cosmetics, beauty, hygiene, sports, culture, presentations, food business, "
+"restaurants, drink, bar, pub, club, radio, tv, television, music, movies, "
+"live style, garden, cuisine, chemical, pharmaceutical, medicine, travel, "
+"sample blog, agriculture, science, politics and more others. Theme comes "
+"with nice flat design concept and responsive layout. This theme is suitable "
+"for all type of devices: desktop, notebook, iPhone, tablete and others. "
+"Responsive design and grid system is based on twitter bootstrap framework. "
+"Theme is developed by myThem.es and it comes with nice header parallax "
+"effect. We carefully handcrafted this theme with a strong focus on "
+"typography, usability and overall user-experience. This beautiful and easy "
+"to customize WordPress theme come with live preview changes integrated with "
+"wp customize. It’s very quick to setup and easy to customize and it comes "
+"with free support. Theme features: custom header, parallax header, header "
+"buttons, custom logo, custom favicon, header custom colors, custom "
+"background color, custom background image, custom footer, custom copyright, "
+"custom social links, custom css, custom layout, left sidebar, right sidebar, "
+"full width layout, additional sidebars, custom widgets, support for jetpack "
+"plugin, styled contact form 7 plugin. Please read the FAQ: Admin Dashboard "
+"&gt; Appearances &gt; Cannyon FAQ. See our demo: http://bit.ly/2jYGdDY"
+msgstr ""
+
+#. URI of the theme
+msgid "http://mythem.es/item/cannyon-free-wordpress-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "myThem.es"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://mythem.es/"
+msgstr ""

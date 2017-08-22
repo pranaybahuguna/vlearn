@@ -1,0 +1,65 @@
+/* Minimal Style Preloader CSS */
+.pace {;
+     -webkit-pointer-events: none;
+     pointer-events: none;
+     -webkit-user-select: none;
+     -moz-user-select: none;
+     user-select: none;
+ }
+
+
+ .pace-inactive {;
+    display: none;
+ }
+
+
+ .pace .pace-progress {;
+     position: fixed;
+     z-index: 2000;
+     top: 0;
+     right: 100%;
+     width: 100%;
+     height: 2px;
+ }
+
+ #page-loader {;
+     position: fixed;
+     height: 100%;
+     width: 100%;
+     z-index: 9999;
+     top: 0;
+ }
+
+ .logged-in #page-loader {;
+    top: 32px;
+ }
+
+ #page-loader .loader-logo-name {;
+     position: absolute;
+     top: 40px;
+     left: 0;
+     text-align: center;
+     width: 100%;
+ }
+
+ #page-loader .loader-logo-name img {;
+    height: 30px;
+ }
+
+ #page-loader .loader-subtitle {;
+     margin-top: 10px;
+ }
+
+ #page-loader .loader {;
+     font-weight: 400;
+     text-transform: uppercase;
+     letter-spacing: 0.1em;
+     font-size: 32px;
+     line-height: 40px;
+     position: absolute;
+     top: 50%;
+     margin-top: -20px;
+     left: 0;
+     text-align: center;
+     width: 100%;
+ }

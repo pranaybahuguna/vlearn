@@ -1,0 +1,1604 @@
+# Copyright (C) 2015 Macho Themes
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Riba Lite 1.0.5\n"
+"Report-Msgid-Bugs-To: http://www.machothemes.com/\n"
+"POT-Creation-Date: 2015-11-07 13:53:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Macho Themes <support@machothemes.com>\n"
+"Language-Team: Macho Themes <support@machothemes.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a better search?"
+msgstr ""
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:6 inc/customizer/panels/site.php:298
+msgid "Macho Themes 2015. All Rights Reserved"
+msgstr ""
+
+#: footer.php:17
+msgid "About"
+msgstr ""
+
+#: footer.php:17
+msgid ""
+"The many variations of passages of Lorem Ipsum available, but the majority "
+"have suffered alteration in some form, by injected true of a humour"
+msgstr ""
+
+#: footer.php:25
+msgid "Follow us"
+msgstr ""
+
+#: footer.php:40
+msgid "Mail: "
+msgstr ""
+
+#: footer.php:41
+msgid "Phone: "
+msgstr ""
+
+#: footer.php:68
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:68
+msgid "http://www.machothemes.com"
+msgstr ""
+
+#: footer.php:68
+msgid "Premium WordPress Themes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Macho Themes"
+msgstr ""
+
+#: footer.php:70
+msgid "Running on:"
+msgstr ""
+
+#: footer.php:70
+msgid "http://www.wordpress.org"
+msgstr ""
+
+#: footer.php:70
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:80
+msgid "Top"
+msgstr ""
+
+#: functions.php:122
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:123
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:464 inc/plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:465 inc/plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:466 inc/plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:467 inc/plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:468 inc/plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:469 inc/plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:470
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:471 inc/plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:472 inc/plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:473
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:474 inc/plugin-activation.php:352
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:475
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:476 inc/plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:477 inc/plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:478 inc/plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:479 inc/plugin-activation.php:399
+#: inc/plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:480
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:513 functions.php:514
+msgid "More Themes"
+msgstr ""
+
+#: functions.php:547
+msgid "Simple. Powerful. Flexible. That's how we at"
+msgstr ""
+
+#: functions.php:547
+msgid " Macho Themes"
+msgstr ""
+
+#: functions.php:547
+msgid " build all of our themes."
+msgstr ""
+
+#: functions.php:585
+msgid " Current theme"
+msgstr ""
+
+#: functions.php:587
+msgid "Customize"
+msgstr ""
+
+#: functions.php:636 inc/plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: functions.php:649
+msgid "Install Now"
+msgstr ""
+
+#: functions.php:654
+msgid "Live Preview"
+msgstr ""
+
+#: header.php:14 inc/customizer/panels/site.php:107
+msgid "Riba"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: inc/back-compat.php:42 inc/back-compat.php:55 inc/back-compat.php:72
+msgid ""
+"Riba Lite requires at least WordPress version 4.1. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:73
+msgid "You Are Here"
+msgstr ""
+
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:77
+msgid "Home"
+msgstr ""
+
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:78
+msgid "Tag:"
+msgstr ""
+
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:79
+msgid "Search:"
+msgstr ""
+
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:80
+msgid "404 - Page not Found"
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:82
+msgid "Follow on Facebook."
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:82
+#: widgets/widget-social-icons.php:46
+msgid "Facebook"
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:87
+msgid "Follow on Twitter"
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:87
+#: widgets/widget-social-icons.php:50
+msgid "Twitter"
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:92
+msgid "View on Youtube"
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:92
+#: widgets/widget-social-icons.php:62
+msgid "YouTube"
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:97
+msgid "Follow on Pinterest"
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:97
+#: widgets/widget-social-icons.php:58
+msgid "Pinterest"
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:102
+msgid "Follow on LinkedIN"
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:102
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:121
+msgid "Search"
+msgstr ""
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:112
+msgid " min. read"
+msgstr ""
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:114
+msgid "1 min. read"
+msgstr ""
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:182
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:185
+msgid "Posted in: %1$s"
+msgstr ""
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:197
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:197
+msgid "1 Comment"
+msgstr ""
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:197
+msgid "% Comments"
+msgstr ""
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:217
+#. translators: used between list items, there is a space after the comma
+msgid " "
+msgstr ""
+
+#: inc/components/nav-walker/class.mt-nav-walker.php:124
+msgid "Add a menu"
+msgstr ""
+
+#: inc/components/preloader/class.mt-preloader-output.php:45
+#: inc/customizer/panels/preloader.php:43
+#: inc/customizer/panels/preloader.php:135
+msgid "Loading"
+msgstr ""
+
+#: inc/components/related-posts/class.mt-related-posts.php:157
+msgid "Related posts: "
+msgstr ""
+
+#: inc/components/social-sharing/class.mt-social-sharing.php:156
+msgid "Share this article : "
+msgstr ""
+
+#: inc/customizer/custom-controls/pro-controls-selector.php:19
+#: inc/customizer/custom-controls/pro-controls-selector.php:32
+#: inc/customizer/custom-controls/pro-controls-selector.php:45
+#: inc/customizer/custom-controls/pro-controls-selector.php:58
+msgid "PRO"
+msgstr ""
+
+#: inc/customizer/panels/advanced.php:19
+msgid "Advanced Options"
+msgstr ""
+
+#: inc/customizer/panels/advanced.php:26
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer/panels/advanced.php:44
+msgid "Enable site preloader"
+msgstr ""
+
+#: inc/customizer/panels/advanced.php:45 inc/customizer/panels/advanced.php:64
+#: inc/customizer/panels/post-formats.php:51
+#: inc/customizer/panels/post-formats.php:70
+#: inc/customizer/panels/post-formats.php:89
+#: inc/customizer/panels/post-formats.php:122
+#: inc/customizer/panels/post-formats.php:141
+#: inc/customizer/panels/post-formats.php:160
+msgid "Initial status: enabled"
+msgstr ""
+
+#: inc/customizer/panels/advanced.php:63
+msgid "Enable smoothscroll"
+msgstr ""
+
+#: inc/customizer/panels/advanced.php:83
+msgid "Enable Lazy Load behavior for images ?"
+msgstr ""
+
+#: inc/customizer/panels/advanced.php:84
+msgid ""
+"Initial status: enabled. If you don't like the fact that images are being "
+"loaded as you scroll them into view, uncheck this."
+msgstr ""
+
+#: inc/customizer/panels/advanced.php:102
+msgid "Enable Random Blog Post Images "
+msgstr ""
+
+#: inc/customizer/panels/advanced.php:103
+msgid ""
+"Initial status: enabled. If you've forgotten to set a featured image, these "
+"will be used as placeholders to make the site look nicer."
+msgstr ""
+
+#: inc/customizer/panels/blog.php:23
+msgid "Single Post Options"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:24
+msgid ""
+"Control various blog options from here. Most of the options from this panel "
+"refer to the blog single page view. If you're not familiar with that term, "
+"please perform a Google search."
+msgstr ""
+
+#: inc/customizer/panels/blog.php:34
+msgid "Global"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:35
+msgid ""
+"This section allows you to control how certain elements are displayed on "
+"the blog single page."
+msgstr ""
+
+#: inc/customizer/panels/blog.php:51
+msgid "Posted on meta on single blog post"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:52
+msgid "This will disable the posted on zone as well as the author name"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:69
+msgid "Estimated reading time meta on single blog post"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:70
+msgid "This will disable the estimated reading time zone."
+msgstr ""
+
+#: inc/customizer/panels/blog.php:87
+msgid "Category meta on single blog post"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:88
+msgid "This will disable the posted in zone."
+msgstr ""
+
+#: inc/customizer/panels/blog.php:106
+msgid "Tags meta on single blog post"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:107
+msgid "This will disable the tagged with zone."
+msgstr ""
+
+#: inc/customizer/panels/blog.php:125
+msgid "Coments meta on single blog post"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:126
+msgid "This will disable the comments header zone."
+msgstr ""
+
+#: inc/customizer/panels/blog.php:144
+msgid "Breadcrumbs on single blog posts"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:145
+msgid "This will disable the breadcrumbs"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:164
+msgid "Social sharing ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:165
+msgid "Displayed right under the post title"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:183
+msgid "Author info box on single blog post"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:184
+msgid "Displayed right at the end of the post"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:200
+msgid "Related posts carousel ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:201
+msgid "Displayed after the author box"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:212
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:213
+msgid ""
+"Various breadcrumb related settings, like: breadcrumb prefix, breadcrumb "
+"item separator & breadcrumb menu post category visibility setting."
+msgstr ""
+
+#: inc/customizer/panels/blog.php:229
+msgid "Text before the breadcrumbs menu"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:230
+msgid "Recommended: You are here"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:252
+msgid "Separator to be used between breadcrumb items"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:253
+msgid "HTML accepted here"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:270
+msgid "Show post category ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:271
+msgid "Show the post category in the breadcrumb ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:285
+msgid "Social Sharing"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:286
+msgid ""
+"Control visibility of various social sharing networks. The changes made "
+"here will reflect on the blog single post view."
+msgstr ""
+
+#: inc/customizer/panels/blog.php:304
+msgid "After content"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:305
+msgid "Before Content"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:307
+msgid "Sharing Bar Postion: After / Before Content"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:308
+msgid "Initial position: after content"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:317
+msgid "Share this article :"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:324
+msgid "Text to display above icons"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:325
+msgid ""
+"This is the text that will be displayed above the icons. Change this to "
+"whatever you feel like"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:342
+msgid "Display share on Facebook ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:360
+msgid "Display share on Twitter ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:378
+msgid "Display share on LinkedIN ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:396
+msgid "Display share on Reddit?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:413
+msgid "Display share on Tumblr ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:430
+msgid "Display share on Google+ ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:448
+msgid "Display share on Pinterest ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:465
+msgid "Display share on VK ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:482
+msgid "Display share on mail ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:495
+msgid "Related posts"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:496
+msgid ""
+"Control various related posts settings from here. For a demo-like "
+"experience, we recommend you don't change these settings."
+msgstr ""
+
+#: inc/customizer/panels/blog.php:514
+msgid "Show posts title in the carousel ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:532
+msgid "Show posts date  ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:551
+msgid "Autoplay related carousel ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:567
+msgid "How many blog posts to display in the carousel at once ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:568
+msgid "No more than 4 posts at once;"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:592
+msgid "Display pagination controls ?"
+msgstr ""
+
+#: inc/customizer/panels/blog.php:593
+msgid "Will be displayed as navigation bullets"
+msgstr ""
+
+#: inc/customizer/panels/post-formats.php:19
+msgid "Archive Blog Post Settings"
+msgstr ""
+
+#: inc/customizer/panels/post-formats.php:20
+msgid ""
+"This section allows you to control various settings specific to each "
+"post-format. Making changes in these sections will be reflected on the "
+"homepage."
+msgstr ""
+
+#: inc/customizer/panels/post-formats.php:31
+msgid "Standard"
+msgstr ""
+
+#: inc/customizer/panels/post-formats.php:32
+msgid "Post format: Standard (or default) settings"
+msgstr ""
+
+#: inc/customizer/panels/post-formats.php:50
+#: inc/customizer/panels/post-formats.php:121
+msgid "Enable Author"
+msgstr ""
+
+#: inc/customizer/panels/post-formats.php:69
+#: inc/customizer/panels/post-formats.php:140
+msgid "Enable Posted ago"
+msgstr ""
+
+#: inc/customizer/panels/post-formats.php:88
+#: inc/customizer/panels/post-formats.php:159
+msgid "Enable Estimated Reading Time"
+msgstr ""
+
+#: inc/customizer/panels/post-formats.php:102
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/panels/post-formats.php:103
+msgid "Post format: Image or (featured image) settings here."
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:24
+msgid "Preloader Options"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:25
+msgid "This panel allows you to control the way the site pre-loader looks"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:32
+msgid "General"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:33
+msgid ""
+"Change pre-loader text color, background-color as well as the text message "
+"that's being displayed."
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:52
+msgid "Preloader text"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:53
+msgid "Current text: Loading"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:72
+msgid "Preloader Loading Color"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:73
+msgid "Current value: #000 (black)"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:91
+msgid "Preloader background color"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:92
+msgid "Current color: #FFF (white) "
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:109
+msgid "Preloader text color"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:110
+msgid "Current color: #000 (black) "
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:125
+msgid "Styles"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:126
+msgid ""
+"This section allows you to pick your preloader style. More styles are "
+"available in the PRO version"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:145
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:147
+msgid "Preloader style"
+msgstr ""
+
+#: inc/customizer/panels/preloader.php:148
+msgid "Current style: Default"
+msgstr ""
+
+#: inc/customizer/panels/site.php:48
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer/panels/site.php:49
+msgid ""
+"You can change the site layout in this area as well as your contact details "
+"(the ones displayed in the header & footer) "
+msgstr ""
+
+#: inc/customizer/panels/site.php:60
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/panels/site.php:61
+msgid ""
+"Depending on the quality of your pictures / videos, you can switch the site "
+"layout. We do recommend the boxed one so you can also set a nice looking "
+"background image."
+msgstr ""
+
+#: inc/customizer/panels/site.php:79
+msgid "Select Site Layout"
+msgstr ""
+
+#: inc/customizer/panels/site.php:80
+msgid "Fixed / Fluid layout"
+msgstr ""
+
+#: inc/customizer/panels/site.php:96
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/panels/site.php:114
+msgid "Enter company name"
+msgstr ""
+
+#: inc/customizer/panels/site.php:115
+msgid "This field is best used when you don't have a professional image logo"
+msgstr ""
+
+#: inc/customizer/panels/site.php:125
+msgid "Your site IMAGE logo HERE"
+msgstr ""
+
+#: inc/customizer/panels/site.php:133
+msgid "Image Site Logo"
+msgstr ""
+
+#: inc/customizer/panels/site.php:147
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer/panels/site.php:148
+msgid ""
+"These are the contact details displayed in the header & footer of the "
+"website."
+msgstr ""
+
+#: inc/customizer/panels/site.php:164
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer/panels/site.php:165 inc/customizer/panels/site.php:183
+#: inc/customizer/panels/site.php:201 inc/customizer/panels/site.php:219
+#: inc/customizer/panels/site.php:237
+msgid "Will be displayed in the contact bar ( Header )"
+msgstr ""
+
+#: inc/customizer/panels/site.php:182
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer/panels/site.php:200
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/customizer/panels/site.php:218
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/customizer/panels/site.php:236
+msgid "LinkedIN URL"
+msgstr ""
+
+#: inc/customizer/panels/site.php:255
+msgid "Email addr."
+msgstr ""
+
+#: inc/customizer/panels/site.php:256 inc/customizer/panels/site.php:275
+msgid "Will be displayed in the header & footer"
+msgstr ""
+
+#: inc/customizer/panels/site.php:274
+msgid "Phone number"
+msgstr ""
+
+#: inc/customizer/panels/site.php:287
+msgid "Footer Details"
+msgstr ""
+
+#: inc/customizer/panels/site.php:288
+msgid "Change the footer copyright message from here. Note: no HTML allowed."
+msgstr ""
+
+#: inc/customizer/panels/site.php:307
+msgid "Footer Copyright."
+msgstr ""
+
+#: inc/customizer/panels/site.php:308
+msgid "Will be displayed in the footer"
+msgstr ""
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:212
+msgid "View PRO version"
+msgstr ""
+
+#: inc/extras.php:216
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/extras.php:220
+msgid "If you like it, rate it !"
+msgstr ""
+
+#: inc/plugin-activation.php:347
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:362
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:377
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/plugin-activation.php:400 inc/plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugin-activation.php:402
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugin-activation.php:828 inc/plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugin-activation.php:935 inc/plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: inc/plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: inc/plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: inc/plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2422
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: inc/plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: inc/plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: inc/plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: inc/plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: inc/plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: inc/plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:3370 inc/plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugin-activation.php:3370 inc/plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:73
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:105
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:109
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "Archives"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebars/sidebars.php:14
+msgid "[Blog] Sidebar #1"
+msgstr ""
+
+#: sidebars/sidebars.php:15
+msgid "In blog archive, right side"
+msgstr ""
+
+#: sidebars/sidebars.php:24
+msgid "[Footer] Sidebar #1"
+msgstr ""
+
+#: sidebars/sidebars.php:25
+msgid "In the footer, first column"
+msgstr ""
+
+#: sidebars/sidebars.php:34
+msgid "[Footer] Sidebar #2"
+msgstr ""
+
+#: sidebars/sidebars.php:35
+msgid "In the footer, 2nd column"
+msgstr ""
+
+#: template-parts/content-aside.php:8
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:10
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:17
+msgid "Edit"
+msgstr ""
+
+#: widgets/widget-about-sm.php:10
+msgid "A widget that displays about text & social media counts. Designed for footer"
+msgstr ""
+
+#: widgets/widget-about-sm.php:19
+msgid "[MT] - About"
+msgstr ""
+
+#: widgets/widget-about-sm.php:74 widgets/widget-latest-posts.php:88
+#: widgets/widget-social-icons.php:121
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget-about-sm.php:79
+msgid "About us"
+msgstr ""
+
+#: widgets/widget-latest-posts.php:10
+msgid "A widget that displays popular posts from blog"
+msgstr ""
+
+#: widgets/widget-latest-posts.php:19
+msgid "[MT] - Latest Posts"
+msgstr ""
+
+#: widgets/widget-latest-posts.php:93
+msgid "How many post to show:"
+msgstr ""
+
+#: widgets/widget-social-icons.php:10
+msgid "A widget that displays social media icons designed` for blog sidebar"
+msgstr ""
+
+#: widgets/widget-social-icons.php:16
+msgid "[MT] - Social Media"
+msgstr ""
+
+#: widgets/widget-social-icons.php:54
+msgid "Google+"
+msgstr ""
+
+#: widgets/widget-social-icons.php:66
+msgid "Dribbble"
+msgstr ""
+
+#: widgets/widget-social-icons.php:70
+msgid "Tumblr"
+msgstr ""
+
+#: widgets/widget-social-icons.php:74
+msgid "Instagram"
+msgstr ""
+
+#: widgets/widget-social-icons.php:126
+msgid "Facebook profile URL:"
+msgstr ""
+
+#: widgets/widget-social-icons.php:131
+msgid "Twitter profile URL:"
+msgstr ""
+
+#: widgets/widget-social-icons.php:136
+msgid "Google Plus profile URL:"
+msgstr ""
+
+#: widgets/widget-social-icons.php:141
+msgid "Pinterest profile URL:"
+msgstr ""
+
+#: widgets/widget-social-icons.php:146
+msgid "YouTube profile URL:"
+msgstr ""
+
+#: widgets/widget-social-icons.php:151
+msgid "Dribbble profile URL:"
+msgstr ""
+
+#: widgets/widget-social-icons.php:156
+msgid "Tumblr profile URL:"
+msgstr ""
+
+#: widgets/widget-social-icons.php:161
+msgid "Instagram profile URL:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Riba Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.machothemes.com/themes/riba-lite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A beautiful, stylish & minimal theme suitable for story tellers. Features "
+"full-width images, post formats, sticky header, lazy loading for images & "
+"unlimited customisation possibilities - all for FREE."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.machothemes.com/"
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:334 functions.php:342
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro Sans Serif, translate this to 'off'. Do not translate
+#. into your own language.
+#. Translators: If there are characters in your language that are not supported
+#. by Souce Sans Pro Sans Serif, translate this to 'off'. Do not translate into
+#. your own language.
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:350
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:359
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+msgctxt "Add new subset (latin-extended, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:138
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:144
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/plugin-activation.php:1116 inc/plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:32
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:88
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:90
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:94
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:96
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:98
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:100
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:102
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""

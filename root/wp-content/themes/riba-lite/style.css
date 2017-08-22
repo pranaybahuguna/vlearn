@@ -1,0 +1,16 @@
+/*
+Theme Name: Riba Lite
+Theme URI: http://www.machothemes.com/themes/riba-lite/
+Author: Macho Themes
+Author URI: http://www.machothemes.com/
+Description: A beautiful, stylish & minimal theme suitable for story tellers. Features full-width images, post formats, sticky header, lazy loading for images & unlimited customisation possibilities - all for FREE.
+Version: 1.0.21
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: black,white,gray,light,one-column,two-columns,fixed-layout,featured-images,sticky-post,responsive-layout,full-width-template,threaded-comments,translation-ready,photoblogging
+Text Domain: riba-lite
+
+This theme, like WordPress, is licensed under the GPL.
+*/
+
+@import url('layout/css/style.min.css');
